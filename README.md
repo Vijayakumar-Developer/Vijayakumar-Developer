@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vijayakumar-Developer
-- 👀 I’m interested in develop a new project using Core php and laravel & Node JS.
-- 🌱 I’m currently learning react js,node js.
+- 👋 Hi, I’m @Vijayakumar
+- 👀 I’m interested in develop a new project using Core php and laravel.
+- 🌱 I’m currently learning Angular , React js,Node js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me at vijai1993@gmail.com
 
