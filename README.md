@@ -7,7 +7,7 @@ With 7+ years of development experience, I'm Vijay — a passionate and evolving
 ## 👨‍💻 Tech Journey
 - 💻 5+ years in Core PHP
 - 🚀 1.5 years in Laravel framework
-- 🎯 1.5 years+ in Angular & Java Spring Boot development
+- 🎯 2.5 years+ in Angular & Java Spring Boot development
 - 🌱 Currently learning: **React**, **Node.js**, and mastering **Java + Spring Boot**
 - ☁️ Gaining hands-on experience with **Docker**, **Git**, and **AWS Deployment**
 
